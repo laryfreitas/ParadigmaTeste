@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|c:\\users\\laryssa.dara\\desktop\\teste completo\\tarefa 2\\paradigmateste\\services\\montararvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|solutionrelative:paradigmateste\\services\\montararvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\paradigmateste\\services\\atribuirvalorarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|solutionrelative:paradigmateste\\services\\atribuirvalorarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\paradigmateste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|solutionrelative:paradigmateste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\paradigmateste\\interfaces\\imontararvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|solutionrelative:paradigmateste\\interfaces\\imontararvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\paradigmateste\\models\\arvoreprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|solutionrelative:paradigmateste\\models\\arvoreprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\paradigmateste\\interfaces\\iatribuirvalorarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDA4D8-AFCF-4933-AD03-2B39768B75A0}|ParadigmaTeste\\ParadigmaTeste.csproj|solutionrelative:paradigmateste\\interfaces\\iatribuirvalorarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMontarArvore.cs",
+              "DocumentMoniker": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Interfaces\\IMontarArvore.cs",
+              "RelativeDocumentMoniker": "ParadigmaTeste\\Interfaces\\IMontarArvore.cs",
+              "ToolTip": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Interfaces\\IMontarArvore.cs",
+              "RelativeToolTip": "ParadigmaTeste\\Interfaces\\IMontarArvore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:18:31.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAtribuirValorArvore.cs",
+              "DocumentMoniker": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Interfaces\\IAtribuirValorArvore.cs",
+              "RelativeDocumentMoniker": "ParadigmaTeste\\Interfaces\\IAtribuirValorArvore.cs",
+              "ToolTip": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Interfaces\\IAtribuirValorArvore.cs",
+              "RelativeToolTip": "ParadigmaTeste\\Interfaces\\IAtribuirValorArvore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:18:25.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MontarArvore.cs",
+              "DocumentMoniker": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Services\\MontarArvore.cs",
+              "RelativeDocumentMoniker": "ParadigmaTeste\\Services\\MontarArvore.cs",
+              "ToolTip": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Services\\MontarArvore.cs",
+              "RelativeToolTip": "ParadigmaTeste\\Services\\MontarArvore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:18:18.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtribuirValorArvore.cs",
+              "DocumentMoniker": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Services\\AtribuirValorArvore.cs",
+              "RelativeDocumentMoniker": "ParadigmaTeste\\Services\\AtribuirValorArvore.cs",
+              "ToolTip": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Services\\AtribuirValorArvore.cs",
+              "RelativeToolTip": "ParadigmaTeste\\Services\\AtribuirValorArvore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:00:27.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArvoreProps.cs",
+              "DocumentMoniker": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Models\\ArvoreProps.cs",
+              "RelativeDocumentMoniker": "ParadigmaTeste\\Models\\ArvoreProps.cs",
+              "ToolTip": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Models\\ArvoreProps.cs",
+              "RelativeToolTip": "ParadigmaTeste\\Models\\ArvoreProps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:56:51.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Program.cs",
+              "RelativeDocumentMoniker": "ParadigmaTeste\\Program.cs",
+              "ToolTip": "C:\\Users\\laryssa.dara\\Desktop\\Teste Completo\\Tarefa 2\\ParadigmaTeste\\Program.cs",
+              "RelativeToolTip": "ParadigmaTeste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:51:37.355Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

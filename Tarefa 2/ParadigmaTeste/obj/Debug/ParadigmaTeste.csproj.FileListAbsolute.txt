@@ -1,0 +1,14 @@
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe.config
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\bin\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.AssemblyReference.cache
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.CoreCompileInputs.cache
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe.config
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.AssemblyReference.cache
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.CoreCompileInputs.cache
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.pdb
